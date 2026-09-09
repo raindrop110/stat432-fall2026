@@ -1,6 +1,6 @@
 ---
 id: w02-rainas3-bias-variance
-title: "Bias–variance tradeoff"
+title: "Approximation bias and estimation variance"
 author: "Raina Shrivastava (rainas3)"
 ---
 
