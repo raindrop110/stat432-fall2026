@@ -1,5 +1,5 @@
 ---
-id: w02-rainas3-bias-variance
+id: w03-rainas3-bias
 title: "Bias, variance, and effective degrees of freedom"
 author: "Raina Shrivastava (rainas3)"
 ---
